@@ -1,0 +1,6 @@
+# FinalYearProject(2017)
+
+This project was my final year project and it was 2017.
+Project includes simulation and implementation of chaos circuit which was able
+to produce truly random bits.You can find some sample pages in the given 
+pdf file in this repository.
